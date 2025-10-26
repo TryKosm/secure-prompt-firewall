@@ -1,5 +1,7 @@
 # secure-prompt-firewall
 
+![CI](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml/badge.svg)
+
 Prompt firewall with rule-based gate decisions for policy enforcement.
 
 [![CI](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/secure-prompt-firewall/actions/workflows/ci.yml)
